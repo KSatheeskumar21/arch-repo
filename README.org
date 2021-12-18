@@ -1,0 +1,5 @@
+* Personal Arch repo
+
+This is my personal repository to house my suckless builds and some other packages I like, like the Paru and Aura AUR helpers.
+
+This repository also houses the PKGBUILDS for my suckless builds
