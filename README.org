@@ -3,3 +3,11 @@
 This is my personal repository to house my suckless builds and some other packages I like, like the Paru and Aura AUR helpers.
 
 This repository also houses the PKGBUILDS for my suckless builds
+
+To add this repo, add the following lines to /etc/pacman.conf
+
+#+begin_src conf
+[nintenno-arch-repo]
+SigLevel = Optional TrustAll
+Server = https://raw.githubusercontent.com/KSatheeskumar21/arch-repo/main/pkgs
+#+end_src
